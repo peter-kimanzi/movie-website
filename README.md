@@ -12,5 +12,7 @@ Any issues with token key can be handled in the imdb documentation
 
 
 
-This project can be view here https://peter-kimanzi.github.io/movie-website/
+## This project can be view here
+
+https://peter-kimanzi.github.io/movie-website/
 
